@@ -6,4 +6,4 @@ A new Flutter project.
 
 screenshot:
 
-<img src="assets/ePing.png">
+<img src="assets/ePing.png" width="50%">
